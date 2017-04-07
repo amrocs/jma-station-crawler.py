@@ -1,4 +1,3 @@
-# mnist.js
-javascript MNIST library
+# jma-station-crawler.py
+The purpose of this crawler is to get japanese weather station from Japan Meteorological Agency's server.
 
-see [Demo](http://amrocs.github.io/mnist_demo/basic.html "demo")
